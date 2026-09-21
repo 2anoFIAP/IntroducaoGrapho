@@ -1,0 +1,25 @@
+Ex.1 - Rede Social (Amigos em Comum)
+
+Objetivo: Dado um grafo de amizades, encontrar amigos em comum entre duas pessoas usando operações de conjuntos.
+Tarefas:
+Monte a estrutura do grafo da rede social completa usando dicionário
+Use set() para encontrar os amigos em comum entre Maria e João.
+Calcule a diferença entre os amigos de Pedro e Ana.
+Liste todas as pessoas que são amigas de Ana ou Lucas (união).
+
+Detalhes das Conexões:
+
+Maria está conectada a: João, Pedro, Ana
+João está conectado a: Maria, Pedro, Lucas
+Pedro está conectado a: Maria, João, Ana, Lucas
+Ana está conectada a: Maria, Pedro, Clara
+Lucas está conectado a: João, Pedro
+Clara está conectada apenas a: Ana
+
+Ex.2 - Materiais comuns entre Projeto1 e Projeto2.
+
+Materiais comuns entre Projeto1 e Projeto2.
+Materiais exclusivos do Projeto3 (em relação ao Projeto1).
+Materiais em pelo menos um dos projetos Projeto2 ou Projeto5.
+Materiais usados simultaneamente em Projeto1, Projeto2 e Projeto5.
+Liste todos os materiais usados em pelo menos dois projetos diferentes.
